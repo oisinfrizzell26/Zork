@@ -1,0 +1,7 @@
+/Users/oisinfrizzell/Desktop/C++/Zork14/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/Zork14.dir
+/Users/oisinfrizzell/Desktop/C++/Zork14/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/oisinfrizzell/Desktop/C++/Zork14/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/oisinfrizzell/Desktop/C++/Zork14/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/oisinfrizzell/Desktop/C++/Zork14/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/install.dir
+/Users/oisinfrizzell/Desktop/C++/Zork14/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/oisinfrizzell/Desktop/C++/Zork14/build/Qt_6_7_0_for_macOS-Debug/CMakeFiles/install/strip.dir
