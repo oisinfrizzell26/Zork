@@ -91,14 +91,14 @@ build CMakeFiles/Zork14.dir/ZorkUL.cpp.o: CXX_COMPILER__Zork14_unscanned_Debug /
   OBJECT_DIR = CMakeFiles/Zork14.dir
   OBJECT_FILE_DIR = CMakeFiles/Zork14.dir
 
-build CMakeFiles/Zork14.dir/main.cpp.o: CXX_COMPILER__Zork14_unscanned_Debug /Users/oisinfrizzell/Desktop/C++/Zork14/main.cpp || cmake_object_order_depends_target_Zork14
-  DEP_FILE = CMakeFiles/Zork14.dir/main.cpp.o.d
+build CMakeFiles/Zork14.dir/class2.cpp.o: CXX_COMPILER__Zork14_unscanned_Debug /Users/oisinfrizzell/Desktop/C++/Zork14/class2.cpp || cmake_object_order_depends_target_Zork14
+  DEP_FILE = CMakeFiles/Zork14.dir/class2.cpp.o.d
   FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/Zork14.dir
   OBJECT_FILE_DIR = CMakeFiles/Zork14.dir
 
-build CMakeFiles/Zork14.dir/class2.cpp.o: CXX_COMPILER__Zork14_unscanned_Debug /Users/oisinfrizzell/Desktop/C++/Zork14/class2.cpp || cmake_object_order_depends_target_Zork14
-  DEP_FILE = CMakeFiles/Zork14.dir/class2.cpp.o.d
+build CMakeFiles/Zork14.dir/arrowpad.cpp.o: CXX_COMPILER__Zork14_unscanned_Debug /Users/oisinfrizzell/Desktop/C++/Zork14/arrowpad.cpp || cmake_object_order_depends_target_Zork14
+  DEP_FILE = CMakeFiles/Zork14.dir/arrowpad.cpp.o.d
   FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -fcolor-diagnostics
   OBJECT_DIR = CMakeFiles/Zork14.dir
   OBJECT_FILE_DIR = CMakeFiles/Zork14.dir
@@ -111,7 +111,7 @@ build CMakeFiles/Zork14.dir/class2.cpp.o: CXX_COMPILER__Zork14_unscanned_Debug /
 #############################################
 # Link the executable Zork14
 
-build Zork14: CXX_EXECUTABLE_LINKER__Zork14_Debug CMakeFiles/Zork14.dir/Character.cpp.o CMakeFiles/Zork14.dir/Command.cpp.o CMakeFiles/Zork14.dir/CommandWords.cpp.o CMakeFiles/Zork14.dir/item.cpp.o CMakeFiles/Zork14.dir/Parser.cpp.o CMakeFiles/Zork14.dir/Room.cpp.o CMakeFiles/Zork14.dir/ZorkUL.cpp.o CMakeFiles/Zork14.dir/main.cpp.o CMakeFiles/Zork14.dir/class2.cpp.o
+build Zork14: CXX_EXECUTABLE_LINKER__Zork14_Debug CMakeFiles/Zork14.dir/Character.cpp.o CMakeFiles/Zork14.dir/Command.cpp.o CMakeFiles/Zork14.dir/CommandWords.cpp.o CMakeFiles/Zork14.dir/item.cpp.o CMakeFiles/Zork14.dir/Parser.cpp.o CMakeFiles/Zork14.dir/Room.cpp.o CMakeFiles/Zork14.dir/ZorkUL.cpp.o CMakeFiles/Zork14.dir/class2.cpp.o CMakeFiles/Zork14.dir/arrowpad.cpp.o
   FLAGS = -DQT_QML_DEBUG -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk
   OBJECT_DIR = CMakeFiles/Zork14.dir
   POST_BUILD = :
